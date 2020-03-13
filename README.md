@@ -1,2 +1,0 @@
-# ilandyz.github.io
-web
